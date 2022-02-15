@@ -8,7 +8,7 @@
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
 
-- 🌱 I’m currently learning **Web 3.0 Applications development and Amazon CDK**
+- 🌱 I’m currently learning **Web 3.O Applications development and Amazon CDK**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **ayan.ahmed25508@gmail.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
