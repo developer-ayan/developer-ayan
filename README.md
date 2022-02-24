@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQGU2CBYeHWZgg/profile-displaybackgroundimage-shrink_350_1400/0/1642597183056?e=1648684800&v=beta&t=QHd96xhWSOQ3fOCCoDviEnZeVwcObeYxMTogHMHcoc0" width="100%"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayan Ahmed</h1>
-<h3 align="center">I'm A Passionate Full Stack, MERN Stack Developer And Freelancer From Pakistan.</h3>
+<h3 align="center">I'm A Passionate Full Stack, MERN Stack Developer And Freelancer From Pakistan...</h3>
 
 
 ## 🙋‍♂️ About Me
