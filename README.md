@@ -13,7 +13,7 @@
 - 📫 How to reach me **ayan.ahmed25508@gmail.com**
 - ⚡ Fun fact **I love Coding and I'm a quick learner.**
 
-## 🚀 Technologies I know
+## 🚀 Technologies I Know
 
 - HTML, CSS, Javascript
 - MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
