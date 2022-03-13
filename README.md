@@ -24,7 +24,7 @@
 - Databases (Firebase Firestore, FaunaDB, MongoDB)
 - Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
 - Design (Figma, Balsamiq, Canva)
-- Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared Hosting/C-panel)
+- Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared Hosting/C-Panel)
 <br/>
 
 ## 📊 My Github Stats
