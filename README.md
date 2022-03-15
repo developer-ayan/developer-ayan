@@ -16,7 +16,7 @@
 ## 🚀 Technologies I Know
 
 - HTML, CSS, Javascript
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS)
 - JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi and Contentful)
 - Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap Css, Sass, Styled Components)
 - Typescript
