@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web 3.O Applications Development And Amazon CDK**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **ayan.ahmed25508@gmail.com**
+- 📫 How To reach me **ayan.ahmed25508@gmail.com**
 - ⚡ Fun fact **I love Coding and I'm a quick learner...**
 
 ## 🚀 Technologies I Know
