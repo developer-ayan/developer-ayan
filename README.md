@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-<!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
+<!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> From <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
 
 - 🌱 I’m Currently learning **Web 3.0 Applications Development And Amazon CDK**
