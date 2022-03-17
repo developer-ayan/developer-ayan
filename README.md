@@ -9,7 +9,7 @@
 <!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
 
 - 🌱 I’m Currently learning **Web 3.0 Applications Development And Amazon CDK**
-- 👯 I’m Looking To Collaborate on **OpenSource Projects**
+- 👯 I’m Looking To Collaborate On **OpenSource Projects**
 - 📫 How To Reach Me **ayan.ahmed25508@gmail.com**
 - ⚡ Fun fact **I love Coding And I'm A Quick Learner...**
 
