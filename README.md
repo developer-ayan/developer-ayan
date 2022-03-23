@@ -19,7 +19,7 @@
 - MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS)
 - JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi And Contentful)
 - Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap Css, Sass, Styled Components)
-- Typescript
+- TypeScript
 - Stripe (Payments)
 - Databases (Firebase Firestore, FaunaDB, MongoDB)
 - Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
