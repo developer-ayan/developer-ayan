@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/2020-09/programming.jpg" width="100%"></h1>
+<h1 align="center"><img src="https://img.freepik.com/free-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" width="100%"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayan Ahmed</h1>
 <h3 align="center">I'm A Passionate Full Stack. MERN Stack Developer And Freelancer From Pakistan..</h3>
