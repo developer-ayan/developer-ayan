@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://img.freepik.com/free-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" width="100%"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayan Ahmed</h1>
-<h3 align="center">I'm A Passionate Full Stack. MERN Stack Developer And Freelancer From Pakistan..</h3>
+<h3 align="center">I'm A Passionate React Native and ReactJS Developer. And Freelancer From Pakistan..</h3>
 
 
 ## 🙋‍♂️ About Me
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> From <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on **<img src="./reat.png"/>** -->
 
-- 🌱 I’m Currently learning **Web 3.0 Applications Development And Amazon CDK**
+- 🌱 I’m Currently Working as **React Native Developer**
 - 👯 I’m Looking To Collaborate On **OpenSource Projects**
 - 📫 How To Reach Me **ayan.ahmed25508@gmail.com**
 - ⚡ Fun fact **I love Coding And I'm A Quick Learner..**
@@ -16,7 +16,7 @@
 ## 🚀 Technologies I Know
 
 - HTML, CSS, Javascript
-- FrONT END (MongoDB, ExpressJs, ReactJs, NodeJS , React Native)
+- FRONT END (React Native , ReactJs)
 - Styling (Tailwindcss, Material-UI, Materialize, Bootstrap Css, Sass, Styled Components)
 - Payments (Stripe , Razorpay)
 - Databases (Firebase Firestore, MongoDB)
