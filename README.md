@@ -16,15 +16,13 @@
 ## 🚀 Technologies I Know
 
 - HTML, CSS, Javascript
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJS)
-- JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi And Contentful)
-- Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap Css, Sass, Styled Components)
-- TypeScript
-- Stripe (Payments)
-- Databases (Firebase Firestore, FaunaDB, MongoDB)
-- Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
-- Design (Figma, Balsamiq, Canva)
-- Deployment (Vercel, Firebase, HerOku, Surge, Netlify, Shared Hosting/C-Panel)
+- FrONT END (MongoDB, ExpressJs, ReactJs, NodeJS , React Native)
+- Styling (Tailwindcss, Material-UI, Materialize, Bootstrap Css, Sass, Styled Components)
+- Payments (Stripe , Razorpay)
+- Databases (Firebase Firestore, MongoDB)
+- Project Management (git, Github)
+- Design (Figma, Canva)
+- Deployment (Firebase, Surge, Netlify)
 <br/>
 
 ## 📊 My Github Stats
@@ -39,7 +37,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/developer-ayan/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developer-ayan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/developer-ayan/github-readme-activity-graph"><img alt="Ayan ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developer-ayan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
