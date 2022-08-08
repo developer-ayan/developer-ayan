@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://img.freepik.com/free-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" width="100%"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayan Ahmed</h1>
-<h3 align="center">I'm A Passionate React Native and ReactJS Developer. And Freelancer From Pakistan..</h3>
+<h3 align="center">I'm A Passionate React Native and ReactJS Developer. And Freelancer From Pakistan...</h3>
 
 
 ## 🙋‍♂️ About Me
